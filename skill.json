@@ -1,0 +1,12 @@
+{
+  "name": "genpark-agent-user-coreference-entity-resolver-skill",
+  "version": "1.0.0",
+  "description": "Resolves conversational pronouns and ambiguous entity references to canonical graph entity node identifiers.",
+  "category": "Agent Memory Graph & Temporal Knowledge",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-agent-user-coreference-entity-resolver-skill",
+  "verified": true,
+  "stars": 8
+}
